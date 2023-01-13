@@ -1,4 +1,4 @@
-## Instalação das decências
+## Instalação das dependências
 
     npm i
 
